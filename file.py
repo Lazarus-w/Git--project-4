@@ -1,4 +1,4 @@
-print("who the hell is my p***s")
+print("hellow world")
 a='7'
 b='3'
 print(a*int(b))
